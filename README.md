@@ -7,7 +7,7 @@ For this project, I looked at customer transactions between 2009-12-01 to 2010-1
 
 
 #### Results
-Customers were divided into 3 groups based on revenue, number of orders, average time between orders, and whether they were registered customers or not.
+Customers were divided into three groups based on revenue, number of orders, the average time between orders, and whether they were registered customers or not.
 
 | Cluster            | 0         |  1        | 2         |
 | :---               |   :----:  |   :----:  |      ---: |
@@ -22,7 +22,7 @@ The following image is 5609 customers plotted in their clusters
 
 ---
 
-This repository containd my capstone project notebooks and and presentation.
+This repository contains my capstone project notebooks and presentation.
 
 The data can be found here: 
 http://archive.ics.uci.edu/ml/datasets/Online+Retail+II
